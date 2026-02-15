@@ -151,11 +151,46 @@ main{
 
 
 
+/* resume stylwe */
+
+
+.resume_container{
+    display: flex;
+    gap: 24px;
+}
+
+.experience_sub_title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
 
 
 
+/* footer style */
+
+footer{
+    padding: 130px;
+    display: flex;
+    gap: 100px;
+}
+.footer_column{
+    width: 50%;
+}
+
+footer input[type="text"], footer input[type='email'], footer textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
 
 
+
+}
 
 
 
@@ -303,4 +338,8 @@ main{
     font-weight: 800;
     font-size: 46px;
 
+}
+
+.resume_download{
+    margin-top: 50px;
 }
