@@ -1,6 +1,15 @@
 
 /* common  code */
 
+.text_center{
+    text-align: center;
+}
+
+
+.secondary_bg{
+    background-color: aquamarine;
+}
+
 .text-primary{
     color: #FD6E0A;
     
@@ -14,7 +23,14 @@
     font-weight: bold;
 }
 
+.section_title{
+    font-size: 35px;
+    font-weight: bold;
+}
+ 
+.section_description{
 
+}
 
 
 /* common  code */
@@ -93,6 +109,166 @@ nav a{
 .banner-pic{
     width: 580px;
 }
+
+
+
+
+/*  */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+.about_items{
+    display: flex;
+    justify-content: space-around;
+}
+.item_description{
+    font-weight: 600;
+}
+
+
+
+
+/* skils section css */
+
+.skils_container{
+    display: flex;
+    gap: 24px;
+}
+
+.skil{
+    padding: 35px;
+    box-shadow: 0 6px 50px 0 gray ;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
